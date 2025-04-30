@@ -1,0 +1,13 @@
+droseraup log: Beginning Update/Installation
+droseraup log: Set architecture to x86_64
+droseraup log: Set platform to unknown-linux-gnu
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0100 39977  100 39977    0     0   513k      0 --:--:-- --:--:-- --:--:--  520k
+droseraup log: /home/vscode/.drosera already exists
+droseraup log: /home/vscode/.drosera/bin already exists
+droseraup log: Downloading v1.16.2 version of drosera
+                                                                                                                                                                                  0.5%########################                                                                                                                                                         14.1%############################################################################################################################################################################### 100.0%
+drosera
+                                                                                                                                                                                  0.4%############################################################################################################################################################################### 100.0%
+drosera-operator
